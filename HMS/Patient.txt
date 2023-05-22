@@ -1,0 +1,1 @@
+Patient ID: 4000	Patient Name: NBS	Disease: B	Fees: 10000.0	Bed NO: ICU-1
